@@ -24,3 +24,7 @@ section{
     text-decoration: none;
     color: white;
 }
+.top-banner{
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
